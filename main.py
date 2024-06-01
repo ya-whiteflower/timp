@@ -5,8 +5,13 @@
 
 
 def print_hi(name):
+<<<<<<< HEAD
+    # Use a breakpoint in the code line below to debug your script.
+    if len(name) == 3:
+=======
     if len(name) == 3:
         # Use a breakpoint in the code line below to debug your script.
+>>>>>>> 2984269341c0909cffe12507c6ccef3ab3fa88ea
         print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
